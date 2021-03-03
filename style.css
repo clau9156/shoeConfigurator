@@ -1,0 +1,13 @@
+#Shadow_Image-2 {
+  pointer-events: none;
+}
+
+.outline {
+  stroke: black;
+  stroke-width: 4;
+}
+
+.hover:hover {
+  stroke: black;
+  stroke-width: 2;
+}
