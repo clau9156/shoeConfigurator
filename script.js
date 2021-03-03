@@ -56,7 +56,6 @@ function clickPink() {
     document.querySelector("#Layer_8").addEventListener("click", clickLayer8);
     document.querySelector("#Layer_9").addEventListener("click", clickLayer9);
     document.querySelector("#Layer_10").addEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").addEventListener("click", clickLayer11);
     startManipulatingTheSvg();
 }
 
@@ -83,7 +82,6 @@ function clickBlue() {
     document.querySelector("#Layer_8").addEventListener("click", clickLayer8);
     document.querySelector("#Layer_9").addEventListener("click", clickLayer9);
     document.querySelector("#Layer_10").addEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").addEventListener("click", clickLayer11);
     startManipulatingTheSvg();
 }
 
@@ -110,7 +108,6 @@ function clickGreen() {
     document.querySelector("#Layer_8").addEventListener("click", clickLayer8);
     document.querySelector("#Layer_9").addEventListener("click", clickLayer9);
     document.querySelector("#Layer_10").addEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").addEventListener("click", clickLayer11);
     startManipulatingTheSvg();
 }
 
@@ -137,7 +134,6 @@ function clickYellow() {
     document.querySelector("#Layer_8").addEventListener("click", clickLayer8);
     document.querySelector("#Layer_9").addEventListener("click", clickLayer9);
     document.querySelector("#Layer_10").addEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").addEventListener("click", clickLayer11);
     startManipulatingTheSvg();
 }
 
@@ -164,7 +160,6 @@ function clickOrange() {
     document.querySelector("#Layer_8").addEventListener("click", clickLayer8);
     document.querySelector("#Layer_9").addEventListener("click", clickLayer9);
     document.querySelector("#Layer_10").addEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").addEventListener("click", clickLayer11);
     startManipulatingTheSvg();
 }
 
@@ -191,7 +186,6 @@ function clickPurple() {
     document.querySelector("#Layer_8").addEventListener("click", clickLayer8);
     document.querySelector("#Layer_9").addEventListener("click", clickLayer9);
     document.querySelector("#Layer_10").addEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").addEventListener("click", clickLayer11);
     startManipulatingTheSvg();
 }
 
@@ -218,7 +212,6 @@ function clickBlack() {
     document.querySelector("#Layer_8").addEventListener("click", clickLayer8);
     document.querySelector("#Layer_9").addEventListener("click", clickLayer9);
     document.querySelector("#Layer_10").addEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").addEventListener("click", clickLayer11);
     startManipulatingTheSvg();
 }
 
@@ -245,7 +238,6 @@ function clickWhite() {
     document.querySelector("#Layer_8").addEventListener("click", clickLayer8);
     document.querySelector("#Layer_9").addEventListener("click", clickLayer9);
     document.querySelector("#Layer_10").addEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").addEventListener("click", clickLayer11);
     startManipulatingTheSvg();
 }
 
@@ -272,193 +264,66 @@ function clickGrey() {
     document.querySelector("#Layer_8").addEventListener("click", clickLayer8);
     document.querySelector("#Layer_9").addEventListener("click", clickLayer9);
     document.querySelector("#Layer_10").addEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").addEventListener("click", clickLayer11);
     startManipulatingTheSvg();
 }
 
 function clickLayer1() {
     console.log("clickLayer1");
-    // document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-    // document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-    // document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-    // document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-    // document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-    // document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-    // document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-    // document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-    // document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-    // document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
     document.querySelector("#Layer_1").setAttribute("fill", paint);
     startManipulatingTheSvg();
 }
 
 function clickLayer2() {
     console.log("clickLayer2");
-    // document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-    // document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-    // document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-    // document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-    // document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-    // document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-    // document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-    // document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-    // document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-    // document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
     document.querySelector("#Layer_2").setAttribute("fill", paint);
     startManipulatingTheSvg();
 }
 
 function clickLayer3() {
     console.log("clickLayer3");
-    // document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-    // document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-    // document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-    // document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-    // document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-    // document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-    // document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-    // document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-    // document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-    // document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
     document.querySelector("#Layer_3").setAttribute("fill", paint);
     startManipulatingTheSvg();
 }
 
 function clickLayer4() {
     console.log("clickLayer4");
-    // document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-    // document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-    // document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-    // document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-    // document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-    // document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-    // document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-    // document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-    // document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-    // document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
     document.querySelector("#Layer_4").setAttribute("fill", paint);
     startManipulatingTheSvg();
 }
 
 function clickLayer5() {
     console.log("clickLayer5");
-    // document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-    // document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-    // document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-    // document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-    // document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-    // document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-    // document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-    // document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-    // document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-    // document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
     document.querySelector("#Layer_5").setAttribute("fill", paint);
     startManipulatingTheSvg();
 }
 
 function clickLayer6() {
     console.log("clickLayer6");
-    // document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-    // document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-    // document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-    // document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-    // document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-    // document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-    // document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-    // document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-    // document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-    // document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
     document.querySelector("#Layer_6").setAttribute("fill", paint);
     startManipulatingTheSvg();
 }
 
 function clickLayer7() {
     console.log("clickLayer7");
-    // document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-    // document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-    // document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-    // document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-    // document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-    // document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-    // document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-    // document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-    // document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-    // document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
     document.querySelector("#Layer_7").setAttribute("fill", paint);
     startManipulatingTheSvg();
 }
 
 function clickLayer8() {
     console.log("clickLayer8");
-    // document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-    // document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-    // document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-    // document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-    // document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-    // document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-    // document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-    // document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-    // document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-    // document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
     document.querySelector("#Layer_8").setAttribute("fill", paint);
     startManipulatingTheSvg();
 }
 
 function clickLayer9() {
     console.log("clickLayer9");
-    // document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-    // document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-    // document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-    // document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-    // document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-    // document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-    // document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-    // document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-    // document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-    // document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
     document.querySelector("#Layer_9").setAttribute("fill", paint);
     startManipulatingTheSvg();
 }
 
 function clickLayer10() {
     console.log("clickLayer10");
-    // document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-    // document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-    // document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-    // document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-    // document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-    // document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-    // document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-    // document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-    // document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-    // document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-    // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
     document.querySelector("#Layer_10").setAttribute("fill", paint);
     startManipulatingTheSvg();
 }
 
-// function clickLayer11() {
-//     console.log("clickLayer11");
-//     document.querySelector("#Layer_1").removeEventListener("click", clickLayer1);
-//     document.querySelector("#Layer_2").removeEventListener("click", clickLayer2);
-//     document.querySelector("#Layer_3").removeEventListener("click", clickLayer3);
-//     document.querySelector("#Layer_4").removeEventListener("click", clickLayer4);
-//     document.querySelector("#Layer_5").removeEventListener("click", clickLayer5);
-//     document.querySelector("#Layer_6").removeEventListener("click", clickLayer6);
-//     document.querySelector("#Layer_7").removeEventListener("click", clickLayer7);
-//     document.querySelector("#Layer_8").removeEventListener("click", clickLayer8);
-//     document.querySelector("#Layer_9").removeEventListener("click", clickLayer9);
-//     document.querySelector("#Layer_10").removeEventListener("click", clickLayer10);
-//     // document.querySelector("#Layer_11").removeEventListener("click", clickLayer11);
-//     document.querySelector("#Layer_11").setAttribute("fill", paint);
-//     startManipulatingTheSvg();
-// }
